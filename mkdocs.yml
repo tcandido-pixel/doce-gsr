@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: Doce GSR
+site_autor: José Cândido
+site_url: https://github.com/tcandido-pixel
+
+theme:
+  name: material
+  language: pt
